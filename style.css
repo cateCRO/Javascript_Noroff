@@ -1,0 +1,53 @@
+.oransje {
+    background-color: #ff4f45;
+    color: white;
+}
+
+.lilla {
+    background-color:#f3f1e9b8;
+    color: #993300;
+}
+
+.lilla2 {
+    background-color: #993300;
+    color:#f3f1e9b8;
+}
+
+.tabella {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.item {
+    color:#f3f1e9b8;
+
+}
+
+.item-1 {
+    background-color: #99330060;
+}
+.item-2 {
+    background-color: #993300a4;
+}
+.item-3 {
+    background-color:#993300df;
+}
+
+.font-1 {
+    font-family: "Noto Serif", serif;
+}
+
+.font-2 {
+    font-family: "Barlow", sans-serif;
+    font-weight: 600;
+}
+
+.body {
+    background-color:#f3f1e9b8
+}
+.sticky {
+    position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+    z-index: 6000;
+}
